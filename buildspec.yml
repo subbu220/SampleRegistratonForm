@@ -11,6 +11,6 @@ phases:
     commands: 
     - echo "Entered the post-build phase"
     - mv target/maven-status/maven-compiler-plugin ./
-artifacts:
+artifacts:javax.servlet-api
   files:
     - deploy/**/*      
