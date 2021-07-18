@@ -8,7 +8,7 @@ phases:
   post_build: 
     commands: 
       - echo Build completed successfully
-artifacts:</title>
+artifacts:
   files:
     - target/MyRegistrationForm.jar 
   discard-paths: yes      
